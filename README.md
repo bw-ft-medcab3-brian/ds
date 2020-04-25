@@ -12,3 +12,7 @@ https://github.com/abgrss/strain_clustering
 "Liam Larsen"
 https://www.kaggle.com/kingburrito666/cannabis-strains
 >>cannabis.csv
+
+"Steve Peters"
+https://www.kaggle.com/stevepeters/cannabis-terpenes-by-smell
+>>terpenes_by_smell.csv
