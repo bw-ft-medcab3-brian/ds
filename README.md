@@ -17,3 +17,8 @@ https://www.kaggle.com/kingburrito666/cannabis-strains
 "Steve Peters"
 https://www.kaggle.com/stevepeters/cannabis-terpenes-by-smell
 >>/source/terpenes_by_smell.csv
+
+"MCR Labs"
+Internal document
+>>/source/MCR_Labs_terpenes_studies_db.csv
+>>/source/MCR_Labs_legend.png
