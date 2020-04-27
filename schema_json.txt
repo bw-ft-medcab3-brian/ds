@@ -1,4 +1,4 @@
-{{
+{"Strains": {
     "strain_name": 'Example Strain #1',
     "strain_type": 'sativa',
     "strain_cannabinoid_profile": '',
