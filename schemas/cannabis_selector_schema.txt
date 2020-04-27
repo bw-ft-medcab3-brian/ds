@@ -60,3 +60,53 @@ Stress
 Muscle Spasms
 Lack of Appetite
 Inflammation
+
+
+Flavors
+
+
+Vanilla
+Tobacco
+Tar 
+Lavender
+Butter
+Peach
+Grapefruit
+Skunk
+Chestnut
+Menthol
+Grape
+Apple
+Pineapple
+Lemon
+Diesel
+Mango
+Orange
+Citrus
+Nutty
+Plum
+Woody
+Pine
+Chemical
+Berry
+Ammonia
+Flowery
+Pepper
+Mint
+Apricot
+Tea 
+Pungent
+Tropical
+Spicy/Herbal
+Pear
+Coffee
+Violet
+Tree Fruit
+Rose
+Honey
+Sage
+Blue Cheese
+Earthy
+Strawberry
+Sweet
+
