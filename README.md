@@ -10,6 +10,10 @@ Ari also has a fully scraped Leafly as of March of 2019. It would be good to run
 
 Stretch goal, it would be cool to produce a graphic such as that found in "/data/source/Cannabis_Terpenes_and_Training.jpg" derived from our eventual data. Probably beyond our skill and time allowance at this point but worthy to aim.
 
+Data Sources (not yet parsed)
+https://www.kaggle.com/bigquery/genomics-cannabis
+https://www.cannaconnection.com/strains?show_char=a
+
 
 Data Sources /data
 
