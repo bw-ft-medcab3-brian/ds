@@ -21,11 +21,11 @@ Data Sources /data
 "Ari Gross" 
 https://github.com/abgrss/strain_me
 >>/source/df_strain_me.csv
-
-"Ari Gross"
 https://github.com/abgrss/strain_clustering
 >>/source/wikileaf.csv
 >>/source/cannabisinfo.csv
+https://github.com/abgrss/Cannabis-NLP
+>>/source/df_sentiment_analysis.cv
 
 "Liam Larsen"
 https://www.kaggle.com/kingburrito666/cannabis-strains
