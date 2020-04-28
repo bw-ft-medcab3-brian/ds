@@ -1,29 +1,27 @@
 # ds
+WORKBOOKS
 
-To Do... (Just suggestions)
+>>/data/notebooks/DS12MedCab_Cleaning_Data.ipynb
 
-Ari Gross does a sentiment analysis on OCS. It would be useful to update that review data store he has with new OCS reviews from past year. In addition it would be cool to add to the data store by scraping 
+>>/data/notebooks/NLP_Models.ipynb
 
-https://lift.co/reviews?page=1&perPage=10&sortBy=-createdOn&isMedical=false
-
-Ari also has a fully scraped Leafly as of March of 2019. It would be good to run a scrape again on Leafly to see what updates in strains etc have come out since that date.
-
-Stretch goal, it would be cool to produce a graphic such as that found in "/data/source/Cannabis_Terpenes_and_Training.jpg" derived from our eventual data. Probably beyond our skill and time allowance at this point but worthy to aim.
-
-Added potential schema json file / this was agreed to on Monday AM
+SCHEMAS
 >>/schemas/json_example_schema.txt
-Added potential selector schema
+
 >>/schemas/cannabis_selector_schema.txt
 
 
-Data Sources /data
+DATA /data
 
 "Ari Gross" 
 https://github.com/abgrss/strain_me
 >>/source/df_strain_me.csv
+
 https://github.com/abgrss/strain_clustering
 >>/source/wikileaf.csv
+
 >>/source/cannabisinfo.csv
+
 https://github.com/abgrss/Cannabis-NLP
 >>/source/df_sentiment_analysis.cv
 
@@ -42,5 +40,4 @@ Internal document
 
 Additional Data Sources
 
-https://www.kaggle.com/bigquery/genomics-cannabis #removed as not on topic for consumers
 https://www.cannaconnection.com/strains?show_char=a
