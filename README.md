@@ -13,6 +13,9 @@ SCHEMAS
 
 DATA /data
 
+"Chris Filkins"
+>>/source/descriptions_corpus.txt
+
 "Ari Gross" 
 https://github.com/abgrss/strain_me
 >>/source/df_strain_me.csv
